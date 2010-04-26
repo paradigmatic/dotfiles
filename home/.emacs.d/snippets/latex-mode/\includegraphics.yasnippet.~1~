@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: \includegraphics
+# key: graphx
+# --
+\includegraphics[$2\textwidth]{$1}
